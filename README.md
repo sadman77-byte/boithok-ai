@@ -1,6 +1,7 @@
 # boithok-ai
 Boithok AI - multi-assistant platform: chat, PDF translation, image generation.
 
+https://boithok-ai-hub.lovable.app
 
 ### **অন্ধকারে তোমার নাম**
 
